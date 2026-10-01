@@ -1,0 +1,94 @@
+* { 
+    box-sizing: border-box; 
+} 
+ 
+body { 
+    font-family: Cambria; 
+    margin: 0; 
+    padding: 20px; 
+} 
+ 
+h2 { font-size: 50px; } 
+ 
+h3 { font-size: 40px; } 
+ 
+p { font-size: 30px; } 
+ 
+@media (max-width: 768px) { 
+ 
+    h2 { font-size: 40px; } 
+     
+    h3 { font-size: 30px; } 
+     
+    p { font-size: 20px; } 
+ 
+}  
+ 
+@media (max-width: 480px) { 
+ 
+    h2 { font-size: 30px; } 
+ 
+    h3 {font-size: 20px; } 
+ 
+    p {font-size: 10px; } 
+} 
+
+.responsive-container { 
+    display: flex; 
+    gap: 20px; 
+} 
+ 
+.responsive-box { 
+    flex: 1; 
+    padding: 50px; 
+    text-align: center; 
+    border: 2px solid black; 
+} 
+ 
+@media (max-width: 768px) { 
+     
+    .responsive-container { flex-wrap: wrap; } 
+ 
+    .responsive-box { width: 50%; } 
+} 
+ 
+@media (max-width: 480px) { 
+ 
+    .responsive-container { flex-direction: column; } 
+ 
+    .responsive-box { width: 100%; } 
+} 
+
+.box { 
+    padding: 50px; 
+    text-align: center; 
+    border: 2px solid black; 
+} 
+
+.project-card {
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+ 
+.sidebar { 
+    padding: 20px; 
+    border: 2px solid black; 
+    margin-top: 20px; 
+} 
+ 
+footer { 
+    text-align: center; 
+    padding: 20px; 
+    margin-top: 20px; 
+} 
+ 
+@media (max-width: 768px) { 
+     
+    h2 { font-size: 28px;} 
+ 
+    .project-card { margin-bottom: 15px; } 
+ 
+    .sidebar { margin-top: 10px; } 
+}
