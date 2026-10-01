@@ -17,15 +17,15 @@ I created a simple webpage with headings and paragraphs. I used CSS Media Querie
 
 ![Task 0 - Desktop](screenshots/0-1.jpg)
 ![Task 0 - Tablet](screenshots/0-2.jpg)
-![Task 0 - Mobile](screenshots/0-3.jpg)
+![Task 0 - Mobile](screenshots/0-3.png)
 
 ## Task 1 - Responsive Layout with Media Queries
 
 I created a layout with three boxes using CSS Flexbox and Media Queries. On desktop, the three boxes are displayed in one row. On tablet, two boxes are displayed in the first row and the third box moves to the next row. On mobile, all boxes are stacked vertically.
 
-![Task 1 - Desktop](screenshots/1-1.jpg)
-![Task 1 - Tablet](screenshots/1-2.jpg)
-![Task 1 - Mobile](screenshots/1-3.jpg)
+![Task 1 - Desktop](screenshots/1-1.png)
+![Task 1 - Tablet](screenshots/1-2.png)
+![Task 1 - Mobile](screenshots/1-3.png)
 
 # Part 2 - Bootstrap Grid System
 
@@ -33,17 +33,17 @@ I created a layout with three boxes using CSS Flexbox and Media Queries. On desk
 
 I created a responsive layout using the Bootstrap 12-column grid system. The three columns are displayed in one row on desktop, two columns per row on tablet and one column per row on mobile.
 
-![Task 2 - Desktop](screenshots/2-1.jpg)
-![Task 2 - Tablet](screenshots/2-2.jpg)
-![Task 2 - Mobile](screenshots/2-3.jpg)
+![Task 2 - Desktop](screenshots/2-1.png)
+![Task 2 - Tablet](screenshots/2-2.png)
+![Task 2 - Mobile](screenshots/2-3.png)
 
 ## Task 3 - Bootstrap Navigation Bar
 
 I created a responsive navigation bar using Bootstrap components. The navigation bar contains a logo on the left and navigation links on the right. On smaller screens, the links collapse into a hamburger menu.
 
-![Task 3 - Desktop](screenshots/3-1.jpg)
-![Task 3 - Tablet](screenshots/3-2.jpg)
-![Task 3 - Mobile](screenshots/3-3.jpg)
+![Task 3 - Desktop](screenshots/3-1.png)
+![Task 3 - Tablet](screenshots/3-2.png)
+![Task 3 - Mobile](screenshots/3-3.png)
 
 # Part 3 - Combined Project
 
@@ -51,9 +51,9 @@ I created a responsive navigation bar using Bootstrap components. The navigation
 
 I created a responsive portfolio page by combining Bootstrap Grid and CSS Media Queries. The page contains a Bootstrap navigation bar, project cards, personal information, contact information and a footer. The layout changes depending on the screen size to make the page responsive on desktop, tablet and mobile devices.
 
-![Task 4 - Desktop](screenshots/4-1.jpg)
-![Task 4 - Tablet](screenshots/4-2.jpg)
-![Task 4 - Mobile](screenshots/4-3.jpg)
+![Task 4 - Desktop](screenshots/4-1.png)
+![Task 4 - Tablet](screenshots/4-2.png)
+![Task 4 - Mobile](screenshots/4-3.png)
 
 # Reflection
 
